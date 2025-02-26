@@ -94,3 +94,4 @@ def decrypt(ciphertext, private_key):
         raise TypeError("Error: Invalid private key format.")
     except ValueError:
         raise ValueError("Error: Decryption failed. Possibly incorrect private key or corrupted ciphertext.")
+

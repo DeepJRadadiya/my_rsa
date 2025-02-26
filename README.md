@@ -5,4 +5,4 @@ This is a simple implementation of RSA encryption and decryption in Python witho
 ## Installation
 
 ```bash
-pip install my_rsa
+pip install myrsa_encrypt

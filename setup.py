@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="my_rsa",
-    version="0.1",
+    name="myrsa_encrypt",
+    version="0.2",
     packages=find_packages(),
     author="Deep Radadiya",
     author_email="deepradadiya0987@gmail.com",
@@ -16,4 +16,5 @@ setup(
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.6",
+
 )
