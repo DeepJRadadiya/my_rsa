@@ -1,0 +1,30 @@
+Metadata-Version: 2.2
+Name: my_rsa
+Version: 0.1
+Summary: A simple RSA encryption library without using built-in RSA libraries.
+Home-page: https://github.com/DeepJRadadiya/my_rsa
+Author: Deep Radadiya
+Author-email: deepradadiya0987@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+# My RSA Library
+
+This is a simple implementation of RSA encryption and decryption in Python without using built-in RSA libraries.
+
+## Installation
+
+```bash
+pip install my_rsa
