@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="myrsa_encrypt",
-    version="0.2",
+    version="0.2.1",
     packages=find_packages(),
     author="Deep Radadiya",
     author_email="deepradadiya0987@gmail.com",

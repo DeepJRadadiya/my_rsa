@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: myrsa_encrypt
-Version: 0.2
+Version: 0.2.1
 Summary: A simple RSA encryption library without using built-in RSA libraries.
 Home-page: https://github.com/DeepJRadadiya/my_rsa
 Author: Deep Radadiya
