@@ -1,0 +1,8 @@
+
+---
+
+## **6. Installing and Using the Library Locally**
+Navigate to the `my_rsa/` folder and run:
+
+```bash
+pip install .
